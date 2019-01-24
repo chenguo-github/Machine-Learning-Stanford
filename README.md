@@ -1,2 +1,2 @@
 # Machine-Learning-Stanford
-Codes in Coursera's Machine Learning Course by Andrew Ng
+Programming assignments in Coursera's Machine Learning Course by Andrew Ng
